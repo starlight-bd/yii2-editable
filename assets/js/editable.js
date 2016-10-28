@@ -254,7 +254,6 @@
                                     }
                                 }
                                 if (notActiveForm) {
-                                    $parent2.find('.help-block').remove();
                                     $parent2.removeClass('has-error');
                                     $message.html('');
                                     self.toggle(false);

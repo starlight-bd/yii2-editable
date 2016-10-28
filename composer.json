@@ -16,6 +16,9 @@
         "kartik-v/yii2-krajee-base": "~1.7",
         "kartik-v/yii2-popover-x": "~1.3"
     },
+    "replace": {
+        "kartik-v/yii2-editable": "v1.7.4"
+    },
     "autoload": {
         "psr-4": {
             "kartik\\editable\\": ""
